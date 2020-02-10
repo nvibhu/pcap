@@ -1,4 +1,3 @@
 # pcap
 pcap_analysis notebook includes :
-   KPIs &
-   Waterfall Model
+   Key KPIs, Time Series KPIs, Waterfall Model
